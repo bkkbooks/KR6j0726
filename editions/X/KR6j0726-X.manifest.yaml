@@ -1,0 +1,174 @@
+canonical_identifier: bkk:krp/KR6j0726/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0726/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經宗通
+  identifiers:
+    krp: KR6j0726
+    cbeta: X16n0318
+    cbeta_old_id: X16n0318
+    authorityid: CA0002008
+    json_key: X0318
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X16/X16n0318.xml
+    old_id: X16n0318
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 1, filename: KR6j0726_001-X.yaml, hash: 'sha256:12b0a2558495df4e5b6d2556af52bb8338422733f6e9198ecf06775052da7298'}
+  - {seq: 2, filename: KR6j0726_002-X.yaml, hash: 'sha256:264c49daac5c50c94601de71bbcbad7e433673531ecacee60aebc2d568b648be'}
+  - {seq: 3, filename: KR6j0726_003-X.yaml, hash: 'sha256:279d851163fa22e0aeba2c87e1710ebe3eb69ff59be489469f76565c55835564'}
+  - {seq: 4, filename: KR6j0726_004-X.yaml, hash: 'sha256:d6ee1be94c2955f7e64421ba309bb0d70d7b28e48be601ed6bfa48995743b9db'}
+  - {seq: 5, filename: KR6j0726_005-X.yaml, hash: 'sha256:950d1f9584f90ee289daf79f2461ca4a9d8dc973745001b090291a4c0abc94bd'}
+  - {seq: 6, filename: KR6j0726_006-X.yaml, hash: 'sha256:533abbdd49bdf40825d1fb06a05063cceb76ae4495d4c5f11bfe352edd230d1c'}
+  - {seq: 7, filename: KR6j0726_007-X.yaml, hash: 'sha256:ce0b54a9aa4dee2fbb5772a15980c3e5cda8a5c5d0b401c92dac08e5ea755adf'}
+  - {seq: 8, filename: KR6j0726_008-X.yaml, hash: 'sha256:1641ed9e12a3824cfa51c7bd66bd5415cae920baf4b0270fb2e60eff654c98ab'}
+  - {seq: 9, filename: KR6j0726_009-X.yaml, hash: 'sha256:10c473aedff5e915e9d426b1818d80d45b2f0553d382ee6fe0b9011d36dc1154'}
+  - {seq: 10, filename: KR6j0726_010-X.yaml, hash: 'sha256:848fd301da1936c587eea4e6caf8eb289f594ab657ff45f3aadfc4cf5fe85dc9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0726_001-X.markers.yaml, hash: 'sha256:ca84b4dbaac8edde8737d24862ca8dd1401039e8b46f035930ede82e880eceed'}
+  - {seq: 2, role: markers, filename: assets/KR6j0726_002-X.markers.yaml, hash: 'sha256:d93bda21e5fc8a92a9782854a1dc411aeabba2e3686ea73c01c907d44e74b66a'}
+  - {seq: 3, role: markers, filename: assets/KR6j0726_003-X.markers.yaml, hash: 'sha256:017b559c388969b0e1b8f270746537934be180af7d58e307a215b384f8c93d64'}
+  - {seq: 4, role: markers, filename: assets/KR6j0726_004-X.markers.yaml, hash: 'sha256:ee3d0fb6f1f33e592e1030d5b83df7d6e2b69c485c0908e4b97b204b6ccea230'}
+  - {seq: 5, role: markers, filename: assets/KR6j0726_005-X.markers.yaml, hash: 'sha256:4bce6577325ce4f38017cee2f196a64d1db90bef18ebbf6b4c525d684dd78561'}
+  - {seq: 6, role: markers, filename: assets/KR6j0726_006-X.markers.yaml, hash: 'sha256:27507fae5d1eb61f40494862d00d59ae51f5c181acd45201c24d63102948cebd'}
+  - {seq: 7, role: markers, filename: assets/KR6j0726_007-X.markers.yaml, hash: 'sha256:a9357e9a56cb8461cc4d19207dff40a3db0870a13bd1f4ac421babbe1c36a799'}
+  - {seq: 8, role: markers, filename: assets/KR6j0726_008-X.markers.yaml, hash: 'sha256:df5b1b7874eb973e954c2bf1f90885abc25c78134ab3a77e5d3414fdea453618'}
+  - {seq: 9, role: markers, filename: assets/KR6j0726_009-X.markers.yaml, hash: 'sha256:37c0da941d02c1c0b1e70e60c032c4224fd8d01a6fee831d35b4cea5313770b2'}
+  - {seq: 10, role: markers, filename: assets/KR6j0726_010-X.markers.yaml, hash: 'sha256:f46c3d16b961e235746c55c572e2532866bb4cb2daf2eddaed698d4b716fb99e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0726_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 24358
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0726_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: No. 318-A 楞嚴宗通緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0726_X_001-mulu-2
+    span:
+    - body
+    - 650
+    - 650
+  label: 楞嚴經宗通
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0726_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 27218
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0726_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 25954
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0726_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 28199
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0726_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 27350
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0726_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 38279
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0726_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 16374
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0726_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 42703
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0726_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 16378
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0726_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 26639
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0726_X_010-mulu-1
+    span:
+    - body
+    - 26290
+    - 26290
+  label: No. 318-B 書楞嚴宗通後
+  type: mulu
+  level: 1
+hash: sha256:1eeb9e245a8acf2fa8e90bbad144c5b9de15f8a8d63a15d833209001d3719415
